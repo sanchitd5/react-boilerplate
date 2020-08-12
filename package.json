@@ -1,6 +1,7 @@
 {
-  "name": "react-frontend-boilerplate",
+  "name": "react-boilerplate",
   "version": "0.1.0-beta",
+  "author": "Sanchit Dang",
   "private": true,
   "dependencies": {
     "@date-io/date-fns": "^1.3.11",
@@ -15,12 +16,13 @@
     "lodash": "^4.17.15",
     "lodash.template": "^4.5.0",
     "material-design-icons-updated": "^4.8.2",
+    "moment-timezone": "^0.5.31",
     "node-sass": "^4.12.0",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "^3.4.2",
     "socket.io-client": "^2.3.0",
     "twilio": "^3.40.0",
     "twilio-video": "^2.2.0",
