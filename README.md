@@ -46,7 +46,7 @@ $ npm -v
 * Step1: Git clone the application
 
 ```
-$ git clone https://github.com/deakin-launchpad/react-frontend-boilerplate.git
+$ git clone https://github.com/sanchitd5/react-boilerplate
 
 $ cd react-frontend-boilerplate
 ```
